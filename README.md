@@ -3,3 +3,4 @@
 ui层移植了lvgl，用的芯片是stm32f103vet6
 后续优化可以聚焦于使用硬件spi提高刷新率
 以及优化ui的设计
+![image](picture/IMG_6341.JPG)
