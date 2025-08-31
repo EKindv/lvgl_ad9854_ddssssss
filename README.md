@@ -3,5 +3,3 @@
 ui层移植了lvgl，用的芯片是stm32f103vet6，屏幕是鸿讯的240*320的st7789电容屏
 ![image](picture/IMG_6341.JPG)
 ![image](picture/IMG_6342.JPG)
-
-不玩了睡觉
